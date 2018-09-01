@@ -1,4 +1,6 @@
 # my-website
 This is a fantastic website
 this is example branch
-updating from remove-ipsum
+=======
+commiting from example branch
+
